@@ -1,7 +1,3 @@
-Web developer located in Angers, France.
- 
----
- 
 ## English
  
 Back-end leaning web developer, based near Angers, France. I hold a French *licence professionnelle* in web application development and I'm currently looking for my first full-time role.
