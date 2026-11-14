@@ -1,5 +1,3 @@
-# Hugo Lignères
- 
 Web developer located in Angers, France.
  
 ---
