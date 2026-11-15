@@ -4,7 +4,7 @@ Back-end leaning web developer, based near Angers, France. I hold a French *lice
  
 Day to day, I work in **PHP** (Symfony, Laravel) and **TypeScript** (Node, Vue, NestJS), backed by PostgreSQL or MySQL, on Linux with Docker.
  
-The rest of the time, I build things in languages I'm curious about, to see how they approach the same problems: **Gleam**, **Crystal**, and **Go**
+The rest of the time, I build things in languages I'm curious about, to see how they approach the same problems: **C#**, **Gleam**, **Crystal**, and **Go**
  
 **Currently:**
 - Reworking a real estate agency's website (Laravel, Filament).
@@ -19,7 +19,7 @@ Développeur web orienté back-end, diplômé d'une licence professionnelle Mét
  
 Au quotidien, je développe en **PHP** (Symfony, Laravel) et en **TypeScript** (Node, Vue, NestJS), avec PostgreSQL ou MySQL derrière, le tout sous Linux et Docker.
  
-Le reste du temps, je construis des choses dans des langages qui m'intéressent, pour voir comment ils abordent les mêmes problèmes : **Gleam**, **Crystal**, et **Go**. 
+Le reste du temps, je construis des choses dans des langages qui m'intéressent, pour voir comment ils abordent les mêmes problèmes : **C#**, **Gleam**, **Crystal**, et **Go**. 
  
 **En ce moment :**
 - Refonte du site d'une agence immobilière (Laravel, Filament).
