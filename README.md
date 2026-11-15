@@ -7,8 +7,9 @@ Day to day, I work in **PHP** (Symfony, Laravel) and **TypeScript** (Node, Vue, 
 The rest of the time, I build things in languages I'm curious about, to see how they approach the same problems: **Gleam**, **Crystal**, and **Go**
  
 **Currently:**
-- Reworking a real estate agency's website (Laravel, Filament)
-- alpacas, a computer algebra system written in Gleam
+- Reworking a real estate agency's website (Laravel, Filament).
+- **alpacas**, a computer algebra system written in Gleam.
+- **hsfarseer**, a Hearthstone-related website with a collaborative deckbuilder (C#, Angular).
 
 ---
 
@@ -21,8 +22,9 @@ Au quotidien, je développe en **PHP** (Symfony, Laravel) et en **TypeScript** (
 Le reste du temps, je construis des choses dans des langages qui m'intéressent, pour voir comment ils abordent les mêmes problèmes : **Gleam**, **Crystal**, et **Go**. 
  
 **En ce moment :**
-- Refonte du site d'une agence immobilière (Laravel, Filament)
-- alpacas, un système de calcul formel en Gleam
+- Refonte du site d'une agence immobilière (Laravel, Filament).
+- **alpacas**, un système de calcul formel en Gleam.
+- **hsfarseer**, un site web dédié à Hearthstone intégrant un deckbuilder collaboratif (C#, Angular)
 
 <!--
 **hugolgs-dev/hugolgs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
