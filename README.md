@@ -1,4 +1,4 @@
-## English
+## 🇬🇧
  
 Back-end leaning web developer, based near Angers, France. I hold a French *licence professionnelle* in web application development and I'm currently looking for my first full-time role.
  
@@ -13,7 +13,7 @@ The rest of the time, I build things in languages I'm curious about, to see how 
 
 ---
 
-## Français
+## 🇫🇷
  
 Développeur web orienté back-end, diplômé d'une licence professionnelle Métiers de l'Internet – Applications Web (Université de Limoges). Je recherche actuellement mon premier poste en CDI.
  
